@@ -1,6 +1,6 @@
 # Condiciones de Servicio de Froggy 🐸
 
-**Última actualización:** [fecha]
+**Última actualización:** 12/08/2026
 
 Gracias por usar Froggy, un bot de mascotas virtuales para Discord. Al usar Froggy en tu servidor, aceptas las siguientes condiciones.
 
