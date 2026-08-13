@@ -1,0 +1,16 @@
+{
+  "name": "froggy",
+  "version": "1.0.0",
+  "description": "El mejor bot de Discord",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "discord.js": "^14.27.0",
+    "dotenv": "^16.4.5"
+  }
+}
